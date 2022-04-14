@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viniciuspessoni
-- 👀 I’m interested in software testing and quality
+- 👀 I’m interested in software testing and quality and leading high skilled teams of engineers
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on software that impacts positively the life of millions of people!
 - 📫 How to reach me oi@viniciuspessoni.com or find on socials @pessonizando
